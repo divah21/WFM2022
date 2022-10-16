@@ -2,7 +2,6 @@ import React from 'react'
 import { AppWrap, MotionWrap } from '../../wrapper';
 import {  SocialMedia } from '../../components';
 import { images } from '../../constants';
-import { motion } from 'framer-motion';
 
 const  Footpage = () => {
   return (
