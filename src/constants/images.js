@@ -53,6 +53,7 @@ export default {
   lms,
   bank_logo,
   lending_solution,
+  king,
   email,
   mobile,
   api,
